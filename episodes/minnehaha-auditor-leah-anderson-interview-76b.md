@@ -1,0 +1,107 @@
+# Minnehaha Auditor Leah Anderson Interview
+
+- Show: Making Waves with Dave Roetman: South Dakota Politics
+- Host: Dave Roetman
+- Published: November 14, 2024, 8:51 AM America/Chicago
+- Canonical: https://daveroetman.substack.com/p/minnehaha-auditor-leah-anderson-interview-76b
+- Guest: Leah Anderson, Minnehaha County Auditor
+- Length: 17 min
+- Audio: https://api.substack.com/feed/podcast/162971239/8540c30204fedce3ec834dd479246e75.mp3
+
+## Summary
+
+Show notes Leah Anderson is the Minnehaha County Auditor, the official who runs elections in South Dakota's largest county. She was elected in 2022 and took office in 2023. This conversation was recorded about a week after the Nov. 5, 2024 general election, when Minnehaha County was the last county in the state to finish counting: final results were posted shortly after 3 p.m. the next day, about 20 hours after the polls closed. Anderson pointed to nearly 30,000 absentee ballots, overseas ballots that had to be recreated by hand, and limited space, and at the county canvass on Nov. 8 she proposed ending in-person absentee voting before the Monday ahead of Election Day and asked for more room to process ballots. Update (Oct. 2026): Anderson says she "was successful in implementing changes and passing state legislation to improve absentee processing and election results reporting for the 2026 election season," and counties may now begin processing absentee ballots the day before Election Day (ballots still can't be counted until the polls close). She won the June 2, 2026 Republican primary over Samuel McCarty, 12,814 votes to 4,725, and faces Democrat Curt Deedrich in the Nov. 3, 2026 general election. Her office ran the first public test of its tabulators on Oct. 20 and is testing them through Election Day morning. (Sources are linked below.) More on Making Waves Leah Anderson, Minnehaha County Auditor (Jan. 4, 2024): https://daveroetman.substack.com/p/leah-anderson-minnehaha-county-auditor-47a About the guest Minnehaha County Auditor/Elections Office: https://www.minnehahacounty.gov/dept/au/au.php Leah G. Anderson (Ballotpedia, 2026 candidate page): https://ballotpedia.org/Leah_G._Anderson_(Minnehaha_County_Auditor,_South_Dakota,_candidate_2026) The 2024 count Frustration mounts over wait for Minnehaha County's election results (South Dakota Searchlight, Nov. 6, 2024): https://southdakotasearchlight.com/2024/11/06/frustration-mounts-over-wait-for-minnehaha-countys-election-results/ Minnehaha County auditor defends counting delays, proposes restrictions on absentee ballots (South Dakota Searchlight, Nov. 8, 2024): https://southdakotasearchlight.com/2024/11/08/minnehaha-county-auditor-election-defends-counting-delays-proposes-restrictions-absentee-ballots/ Why did it take so long to get results in Minnehaha County? (Sioux Falls Simplified, Nov. 8, 2024): https://www.sfsimplified.com/why-did-it-take-so-long-to-get-results-in-minnehaha-county/ Update sources Anderson, Deedrich ask for votes in Minnehaha County Auditor race (Garretson Gazette, Oct. 22, 2026): https://www.garretsongazette.com/anderson-deedrich-ask-for-votes-in-minnehaha-county-auditor-race/ More South Dakotans now vote early (South Dakota News Watch, Sept. 16, 2026): https://www.sdnewswatch.org/south-dakota-early-absentee-mail-in-voting-2026-election/ Official results, June 2, 2026 primary (Minnehaha County): https://web.minnehahacounty.gov/dept/au/election/electionReturns/26primary.php County auditors test accuracy of tabulation machines (Dakota News Now/KOTA, Oct. 20, 2026): https://www.kotatv.com/2026/10/21/county-auditors-test-accuracy-tabulation-machines/ Subscribe to Making Waves with Dave Roetman: https://daveroetman.substack.com/
+
+## Transcript
+
+Dave Roetman  [0:00]: This is the Making Waves podcast. My name is Dave Roetman. We're here with Leah Anderson, auditor of Minnehaha County. Welcome Leah. Thanks Dave. Recent election last week, Tuesday. You had a big part in the election process, of course. Could you tell us a little bit about why it took so long to... Count the votes in Minnehaha County?
+
+Leah Anderson  [0:00]: I would say the largest reason why it took so long is because of the volume of the votes. We had well over 90,000 votes to count. 27 roughly were absentee. Of those absentee, we had approximately 720 UOCAVA ballots. UOCAVA ballots are ballots that we get from people that reside. Outside of the U.S. These are particularly more time consuming because we email the ballot to the person and then the ballot comes back to us just on a sheet of paper that they print and send back to us and then those ballots have to be recreated by the resolution board.
+
+Dave Roetman  [0:00]: Yes, I was on one of those resolution boards some years ago. But yeah, that does take a lot of time because you have to have one Republican, one Democrat, correct? Correct. And then they have to agree on the ballot and then they got to create a new ballot. It's very timely. Yes.
+
+Leah Anderson  [0:00]: So they have to mark the whole ballot for them.
+
+Dave Roetman  [0:00]: Processing lots of early and absentee ballots takes quite some time. So they're envelopes and so we have to remove them from each of these envelopes and process them. I mean tell us a little bit about that process and how you went about it.
+
+Leah Anderson  [0:00]: Yeah so correct the both the those that come in and vote in person absentee, which a lot of people think they'll be voting but it's technically in person absentee, and then also the ballots that we get returned by mail. All of those ballots come back to us in large envelopes with labels so we know what the voters name is and their information. That's important because then the process that happens when they first come back to our office, first we have to verify the signatures, validate them. And so we try to do do that all a head of time as they're coming in. So daily as we get ballots and we validate signatures.
+
+Dave Roetman  [0:00]: Could you tell us a little bit about that? Because don't you have to compare signatures between the request for absentee ballot and the ballot that comes in? Yeah, so there's, well, a couple things. You're.
+
+Leah Anderson  [0:00]: Comparing it on the request, but most importantly, not just the request, but it's also a good idea to compare that signature to their identification. Because if you receive a request from somebody that's forged, a forged signature, and then you compare the ballot to that request, you're just comparing two forged signatures. So you really want to look at their identification. So that's part of that process as well. And you're not just blowing through the process, you're actually comparing them. Yes, we compare them and if a signature doesn't... Quite match or if there aren't distinguishing factors that match, because sometimes signatures can be a little different, but there's certain things that are going to be the same in a signature. And so we make sure that we look at those and make sure they match. And we do have some periodically that do not match.
+
+Dave Roetman  [0:00]: Interesting. And of course, this is all manual. KATHRYN Can't just have a machine do it. Correct.
+
+Leah Anderson  [0:00]: All the matching of signatures is manual.
+
+Dave Roetman  [0:00]: And we had a very high turnout, 70% statewide. What kind of a turnout did we have in Minnehaha County?
+
+Leah Anderson  [0:00]: Just slightly over 70%. It was about 70 point...
+
+Dave Roetman  [0:00]: So that's a large number of ballots to count? It is. Tell us a little bit more about the process. I understand you had some IT issue, delayed results.
+
+Leah Anderson  [0:00]: We were counting all through the night into the next morning so we never stopped counting. There was delay in our absentee process. So that. Did delay our results some. The thing that I found out though at the end of counting, so we were done tabulating ballots at about 1230 for election day ballots and then we had about another hour of absentee ballots that.
+
+Dave Roetman  [0:00]: We had to process. So you're saying basically you're done at 2 a.m.?
+
+Leah Anderson  [0:00]: No, we're talking in the, to the next day. So 1230 in the afternoon, the day after the election, we're still processing ballots. Okay. There came a point where our tabulation machines, we have some of them set up to run election day ballots and some running absentee ballots. One of the tabulation machines was still processing or tabulating absentee ballots. That machine was not done tabulating ballots until approximately one o'clock in the afternoon the day after. The other ballots were tabulated for the other precincts. It wasn't really an IT glitch necessarily, but I do rely on our IT department to help guide us.
+
+Leah Anderson  [5:00]: They've done this many more years than I have. Historically, they have always waited to upload or export the results from the tabulators. Report them to the state once the absentee ballots are also processed. So what I found out was this was a little late in the process but and a little too late to do anything about it but they had been waiting for that last tabulator to finish tabulating ballots for absentee before they were going to upload any of the results for election day ballots. So we could have been uploading results throughout the night and then As absentee finished, we could have the remaining ballots tabulated. So what it would have looked like on the Secretary of State's website is that we would have precincts processed, but they wouldn't be fully processed. They would be partially processed. We have the ability to do that, but that is not the way they were doing it that night. And so that disappointed me to find out. After the fact that we had results that were being detained from being reported until the absentee results were processed.
+
+Dave Roetman  [5:00]: What would you do to speed up the process in Minnehaha County to count the ballots?
+
+Leah Anderson  [5:00]: I think the best way to speed up the process is really if we had more space to have more more people for the absentee board. So we were limited to the space that we had up on third floor to have teams set up to work on those absentee ballots. And we were pretty maxed out with a little over 50, between 50 and 60 people up there. The space just gets a little tight when you need to set up tables and, you have people processing those ballots.
+
+Dave Roetman  [5:00]: So you basically have 50 or 60 people maximum processing ballots that you have to... Open up these envelopes that compare signatures, and they're working what teams up to?
+
+Leah Anderson  [5:00]: They're in teams of three for the absentee boards. So they're at a table, three people.
+
+Dave Roetman  [5:00]: So you're talking basically 20 teams, and so they can only do 20 at a time, basically, at any one time, and you've got thousands and thousands of ballots. That's just going to take time to do that. Well, they're doing Thank you.
+
+Leah Anderson  [5:00]: Let's say they're working on a precinct at a time, but in some of our precincts, for instance, 416, which is a large absentee mail-in precinct, there could be four or five thousand ballots that need to be done in that precinct. So it took multiple teams of three people to work on just that one precinct.
+
+Dave Roetman  [5:00]: Now my point is that it takes time to do all that stuff. It does. It's very time consuming. Yes. So you need more space so you can create more teams of three. Yes. That's what you're saying. Yes. Fair enough. Tell us about the process itself. How many steps does it take to process an absentee ballot?
+
+Leah Anderson  [5:00]: Absentee voting. Is the most time consuming. So not only does it take more time when a person, let's say a person comes in and does in-person absentee voting. So they go through the process as they would on election day, but their ballot goes into an envelope. On election day, we have to take all those envelopes. First, we have to record the person's name in a poll list. We have to verify it against the registration list. So it's the same process that would happen at. The polling place on election day. So we're going back through that one more time in person with our absentee board. So those three people sitting at the table are taking the envelope, reading off the name, just as if the person were to show up and vote in person. They write the name in the poll list. They check it off on the registration list. And then the envelope, when they get all done with that precinct, they open all those envelopes and separate the ballot.
+
+Dave Roetman  [5:00]: From the envelope. It can stop you right here. So what's happening, basically, so you open the polls at 7 a.m., they close at 7 p.m. So that's 12-hour process of having in-person voting. But if you're doing absentee ballot, you're going through that same process. After the polls have closed to for the final count so basically that sounds like you know you're repeating steps here what the 12 hours that you would have had if they had come in person is something you have to do afterwards.
+
+Leah Anderson  [5:00]: Kind of so we notify the parties ahead of time. So we notified the parties 10 days prior to the election and said we're going to start that process before close of polls. We can start that process on election day. So we started that process at, so we had our supervisors come in at eight in the morning. The people processing those ballots came in at nine o'clock in the morning. So they could start that process, but we can't tabulate those ballots until they're done going through that process. So let's say we have a precinct that has 1,800 people that voted absentee.
+
+Leah Anderson  [10:00]: They still have to write down those 1,800 names on the poll list, just like they would at the polling place. Which could take them several hours to do that. And then they have to unfold all those ballots, because this time the ballots were longer, so every ballot was folded. So they're taking them out of the envelope, they're unfolding the ballot, then they're sending them over to the Tabulation Center. To be tabulated. Same thing happens with those ballots that would, with Election Day ballots, except since they're all folded, we have to try to get them as flat as possible to go through the tabulator and not jam.
+
+Dave Roetman  [10:00]: I know in the past we've had, especially with the older tabulators, those folded ballots would oftentimes rip. And then you have to send it to the resolution board to be resolved. Because it's ripped, you got to create a new ballot. Right. And that's another process. It is.
+
+Leah Anderson  [10:00]: So there's just, there's so many steps that have to happen. Everything takes longer, and especially it takes longer with absentee.
+
+Dave Roetman  [10:00]: So what would you do to speed up the process in Minnehaha County?
+
+Leah Anderson  [10:00]: To speed up the process. Other than having more people to process more ballots, I think that's the only way to speed up the process. In the case of this election, Had I had additional teams come in, fresh people of 50 a couple times throughout the night, we still would have not been done any sooner. We would have just had fresh eyes on it. It might've sped up the process by a couple hours, but we still had to go through all those steps. Fatigue is a factor.
+
+Dave Roetman  [10:00]: But also space. You basically need more space and you need more people and more teams. Yes. Pretty straightforward. It is. Could you tell us a little bit about the tabulators themselves? I mean, are there any issues with the tabulators? How do they work? I mean, a lot of people have talked about hand tabulators. What are your thoughts about that? Tell us about the tabulators that you use.
+
+Leah Anderson  [10:00]: So the tabulators themselves. There's a lot of factors that go into the tabulators that people don't know about. One is all the testing that we have to do. So leading up to the election, we have to test those tabulators and run test ballots through multiple times. So we had two mock elections that we did. We also ran tests on other days. We did run ballots through that. Were folded, that were hand marked, that were machine marked, you know all kinds of different options just to make sure that everything was going to run well. Leading up to the election actually we had one tabulator that kept jamming. We had ES&S come out and do some maintenance on that tabulator, clean it, clean the rollers. The good thing that happened is that that person that came out to do that maintenance showed me how to do the maintenance as well. So one thing that did happen on election night is we had the same problem on election night with that tabulator where it kept jamming, it kept... The ballots were not running through well, and so I had to take that machine apart a bit and clean the rollers and do some work on it myself. So I was glad that I had that experience with the maintenance guy showing me that. But the tabulators themselves, while they can run a lot of ballots through, were still dependent on that process of getting the ballots to the tabulators. So in this election, we had such a high turnout and we had such long ballots that when we opened the ballot boxes for election day, the ballots were just like completely scattered and some were already partially ripped when we were trying to get them out of the ballot box. So trying to get those ballots. Ready to run through the tabulators took a lot of time in itself. Keeping the machines clean. But what we did when we started on election day, we had two tabulators, we have a total of four. We had two of them set up to run election day ballots and two of them set up to run absentee ballots. The only difference in that, the ballots are the same, they run through the same, but we need to track our numbers for absentee and election day separately. So that's why we run ours separate. Through the night, as we got going, we could tell that the absentee process was going so slow that we needed to close out that one tabulator, that second one that was running absentee ballots. We needed to shut that one down and re... Get it set up for election day ballots. And so we did that midway through the night so that we could run three tabulators with election day ballots. I remember several years ago, the.
+
+Dave Roetman  [10:00]: County auditor was saying that he only had three tabulators. Now you've got four. He was saying back then that you needed five. Would more tabulators help?
+
+Leah Anderson  [10:00]: Again, it's a space issue. I don't believe we could even fit a fifth tabulator in the commission chambers and have room to.
+
+Dave Roetman  [10:00]: Work. So, ideally speaking, if you had an extra space, how many doublet [?] would you need?
+
+Dave Roetman  [15:00]: How much space would you need?
+
+Leah Anderson  [15:00]: In an ideal situation, I would say if we had about twice the space we had on election night, so we were using the commission chambers, the training room, and the multi-purpose room. If we had a much larger space, that would help tremendously. The other thing is with using separate rooms, I can't be in every room. At all times. And there are times where I need to be observing everything that's going on and I can't triplicate myself into all three rooms. Space is definitely a factor. I know you brought up hand counting. One thing that we have never really looked at more recently is what would it look like if we were tabulating ballots at the precinct level. So if all 81 or technically 79 of our precincts were tabulating at the same time, that would speed up the process too. So if every precinct had a way to tabulate, or count their ballots at the precinct level, that would make the process go so much faster.
+
+Dave Roetman  [15:00]: So I gather that more space would help increase the speed of your process, and then you can bring in more volunteers, more staffers basically, to help count in the elections.
+
+Leah Anderson  [15:00]: Correct. I think... Additional space would be great. I think about it even with the storage of all of our supplies and preparing for the election. We literally are out in the hallways. Getting our supplies ready, every space that we can find we're utilizing to try to get things ready for an election. But all the.
+
+Dave Roetman  [15:00]: Hallways doing stuff, these are not ideal spaces. No.
+
+Leah Anderson  [15:00]: There is space that I've asked for in our old public safety building. The lower level, it would be ideal if we could take some of that space and turn it into a dedicated area and maybe not so much to run the elections out of, but at least to have our supplies organized so that we're not spinning our wheels and... Taking a lot of time to get ready for elections every time there's an election. This.
+
+Dave Roetman  [15:00]: Seems like it's a little bit important and we should dedicate some more resources. I agree. I mean, our.
+
+Leah Anderson  [15:00]: Elections are the most important thing we do. And if we can't allow the necessary space and resources for that, I think that's, we're not doing our citizens any favors with their tax dollars.
+
+Dave Roetman  [15:00]: Leah, thank you so much for being with us. Yeah, thank you Dave. This has been the Making Waves podcast. My name is Dave Roetman and we've been with Leah Anderson, the auditor of Minnehaha County.
