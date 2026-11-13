@@ -1,0 +1,177 @@
+# Making Waves with Dave Roetman: South Dakota Politics
+
+> South Dakota public policy, legislation and ballot issues, straight from the people making the decisions.
+
+The canonical home for episodes, email, and listening is https://daveroetman.substack.com
+
+This discovery site: https://podcast.daveroetman.com/
+Podcast RSS: https://api.substack.com/feed/podcast/340173.rss
+
+Listen:
+- Substack: https://daveroetman.substack.com/podcast
+- Spotify: https://open.spotify.com/show/6vdjfVIZw02gpqRo3lMIEp
+- Apple Podcasts: https://podcasts.apple.com/us/podcast/making-waves-with-dave-roetman/id1812683128
+- Amazon Music: https://music.amazon.com/podcasts/caa37cbc-6b74-4c75-8cec-badeaefabcf5/making-waves-with-dave-roetman-south-dakota-politics
+- YouTube: https://www.youtube.com/@davidroetman3168
+- Rumble: https://rumble.com/c/c-7961266
+
+## Episodes
+
+- [From the Battlefield to the Ballot Box: Kerry Loudenslager for District 12](https://podcast.daveroetman.com/episodes/from-the-battlefield-to-the-ballot/) (2026-10-16). Guest: Kerry Loudenslager. Canonical post: https://daveroetman.substack.com/p/from-the-battlefield-to-the-ballot
+  Markdown: https://podcast.daveroetman.com/episodes/from-the-battlefield-to-the-ballot.md
+- [It's Your Money: Melissa Hull on the Treasurer's Office and Amendment K](https://podcast.daveroetman.com/episodes/its-your-money-melissa-hull-on-the/) (2026-10-13). Guest: Melissa Hull. Canonical post: https://daveroetman.substack.com/p/its-your-money-melissa-hull-on-the
+  Markdown: https://podcast.daveroetman.com/episodes/its-your-money-melissa-hull-on-the.md
+- [Closing the Loophole: Sen. Taffy Howard Explains Amendment J (and Why She's Yes on K and I)](https://podcast.daveroetman.com/episodes/closing-the-loophole-sen-taffy-howard/) (2026-10-10). Guest: Sen. Taffy Howard. Canonical post: https://daveroetman.substack.com/p/closing-the-loophole-sen-taffy-howard
+  Markdown: https://podcast.daveroetman.com/episodes/closing-the-loophole-sen-taffy-howard.md
+- [Only Citizens Vote, and Hands Off Your Money: Sen. Kevin Jensen on Amendments J and K](https://podcast.daveroetman.com/episodes/only-citizens-vote-and-hands-off/) (2026-10-05). Guest: Sen. Kevin Jensen. Canonical post: https://daveroetman.substack.com/p/only-citizens-vote-and-hands-off
+  Markdown: https://podcast.daveroetman.com/episodes/only-citizens-vote-and-hands-off.md
+- [Amendment I Explained: Sen. Kevin Jensen on Medicaid Expansion and the 90% Federal Match](https://podcast.daveroetman.com/episodes/amendment-i-explained-sen-kevin-jensen/) (2026-10-02). Guest: Senator Kevin Jensen, District 16. Canonical post: https://daveroetman.substack.com/p/amendment-i-explained-sen-kevin-jensen
+  Markdown: https://podcast.daveroetman.com/episodes/amendment-i-explained-sen-kevin-jensen.md
+- [Rep. John Hughes on Amendment L: Why It Should Take 60% to Change Our Constitution](https://podcast.daveroetman.com/episodes/rep-john-hughes-on-amendment-l-why/) (2026-09-28). Guest: Representative John Hughes, South Dakota House, District 13. Canonical post: https://daveroetman.substack.com/p/rep-john-hughes-on-amendment-l-why
+  Markdown: https://podcast.daveroetman.com/episodes/rep-john-hughes-on-amendment-l-why.md
+- [Interview with Dale Bartscher, Associate Director of SD Right to Life and Candidate for District 35 House](https://podcast.daveroetman.com/episodes/interview-with-dale-bartscher-associate/) (2026-03-20). Guest: Dale Bartscher, Associate Director, South Dakota Right to Life; candidate for District 35 House. Canonical post: https://daveroetman.substack.com/p/interview-with-dale-bartscher-associate
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-dale-bartscher-associate.md
+- [Interview: National Committeewoman Heidi Engelhart](https://podcast.daveroetman.com/episodes/interview-national-committeewoman/) (2026-02-14). Guest: Heidi Engelhart, National Committeewoman, South Dakota Republican Party. Canonical post: https://daveroetman.substack.com/p/interview-national-committeewoman
+  Markdown: https://podcast.daveroetman.com/episodes/interview-national-committeewoman.md
+- [Update From the SD Capitol From President Pro Tem Senator Chris Karr](https://podcast.daveroetman.com/episodes/update-from-the-sd-capitol-from-president/) (2026-02-04). Guest: Senator Chris Karr, President Pro Tempore, South Dakota Senate. Canonical post: https://daveroetman.substack.com/p/update-from-the-sd-capitol-from-president
+  Markdown: https://podcast.daveroetman.com/episodes/update-from-the-sd-capitol-from-president.md
+- [Interview: Amanda Radke](https://podcast.daveroetman.com/episodes/interview-amanda-radke/) (2026-01-29). Guest: Amanda Radke, grassroots activist and rancher. Canonical post: https://daveroetman.substack.com/p/interview-amanda-radke
+  Markdown: https://podcast.daveroetman.com/episodes/interview-amanda-radke.md
+- [Interview with Senator Mykala Voita, District 21](https://podcast.daveroetman.com/episodes/interview-with-senator-mykala-voita/) (2026-01-25). Guest: Senator Mykala Voita, South Dakota Senate, District 21. Canonical post: https://daveroetman.substack.com/p/interview-with-senator-mykala-voita
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-senator-mykala-voita.md
+- [What is the Future Fund? Small Town Nursing Homes Shutting Their Doors - What Can Be Do?](https://podcast.daveroetman.com/episodes/what-is-the-future-fund-small-town/) (2026-01-21). Guest: Representative Marty Overweg, Assistant House Majority Leader, South Dakota House, District 21. Canonical post: https://daveroetman.substack.com/p/what-is-the-future-fund-small-town
+  Markdown: https://podcast.daveroetman.com/episodes/what-is-the-future-fund-small-town.md
+- [What is ALEC? Interview: Jonathan Williams](https://podcast.daveroetman.com/episodes/what-is-alec-interview-jonathan-williams/) (2026-01-12). Guest: Jonathan Williams, President and Chief Economist, American Legislative Exchange Council (ALEC). Canonical post: https://daveroetman.substack.com/p/what-is-alec-interview-jonathan-williams
+  Markdown: https://podcast.daveroetman.com/episodes/what-is-alec-interview-jonathan-williams.md
+- [Take Action Against Human Trafficking in South Dakota](https://podcast.daveroetman.com/episodes/take-action-against-human-trafficking/) (2025-12-20). Guest: Becky Rasmussen and Rachel Foltz, Call to Freedom. Canonical post: https://daveroetman.substack.com/p/take-action-against-human-trafficking
+  Markdown: https://podcast.daveroetman.com/episodes/take-action-against-human-trafficking.md
+- [Interview: Rep. Tesa Schwans District 9](https://podcast.daveroetman.com/episodes/interview-rep-tesa-schwans-district/) (2025-11-18). Guest: Representative Tesa Schwans, South Dakota House, District 9. Canonical post: https://daveroetman.substack.com/p/interview-rep-tesa-schwans-district
+  Markdown: https://podcast.daveroetman.com/episodes/interview-rep-tesa-schwans-district.md
+- [Interview with Senator Carl Perry District 3](https://podcast.daveroetman.com/episodes/interview-with-senator-carl-perry/) (2025-11-15). Guest: Senator Carl Perry, Assistant Majority Leader, South Dakota Senate, District 3. Canonical post: https://daveroetman.substack.com/p/interview-with-senator-carl-perry
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-senator-carl-perry.md
+- [Interview: Senator Mykala Voita, District 21](https://podcast.daveroetman.com/episodes/interview-senator-mykala-voita-district/) (2025-11-08). Guest: Senator Mykala Voita, South Dakota Senate, District 21. Canonical post: https://daveroetman.substack.com/p/interview-senator-mykala-voita-district
+  Markdown: https://podcast.daveroetman.com/episodes/interview-senator-mykala-voita-district.md
+- [Interview with Rep. Scott Odenbach and Sen. Chris Karr](https://podcast.daveroetman.com/episodes/interview-with-rep-scott-odenbach/) (2025-10-26). Guest: Representative Scott Odenbach (House Majority Leader) and Senator Chris Karr (President Pro Tempore). Canonical post: https://daveroetman.substack.com/p/interview-with-rep-scott-odenbach
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-rep-scott-odenbach.md
+- [School Choice in South Dakota, and What Does AFP Do?](https://podcast.daveroetman.com/episodes/school-choice-in-south-dakota-and/) (2025-10-12). Guest: Jennifer Beving, Deputy Director of Americans for Prosperity South Dakota. Canonical post: https://daveroetman.substack.com/p/school-choice-in-south-dakota-and
+  Markdown: https://podcast.daveroetman.com/episodes/school-choice-in-south-dakota-and.md
+- [Interview with Representative Greg Jamison](https://podcast.daveroetman.com/episodes/interview-with-representative-greg/) (2025-10-11). Guest: Representative Greg Jamison, District 12. Canonical post: https://daveroetman.substack.com/p/interview-with-representative-greg
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-representative-greg.md
+- [Interview: Matt Hurley on Political Campaigns and Marketing](https://podcast.daveroetman.com/episodes/interview-matt-hurley-on-political/) (2025-09-16). Guest: Matt Hurley, political consultant with Southeast Strategies. Canonical post: https://daveroetman.substack.com/p/interview-matt-hurley-on-political
+  Markdown: https://podcast.daveroetman.com/episodes/interview-matt-hurley-on-political.md
+- [Taffy on TIFs - Why It Matters to You](https://podcast.daveroetman.com/episodes/taffy-on-tifs-why-it-matters-to-you/) (2025-09-11). Guest: Senator Taffy Howard, District 34. Canonical post: https://daveroetman.substack.com/p/taffy-on-tifs-why-it-matters-to-you
+  Markdown: https://podcast.daveroetman.com/episodes/taffy-on-tifs-why-it-matters-to-you.md
+- [Interview: Representative Bobbi Andera](https://podcast.daveroetman.com/episodes/interview-representative-bobbi-andera/) (2025-09-09). Guest: Representative Bobbi Andera, District 10. Canonical post: https://daveroetman.substack.com/p/interview-representative-bobbi-andera
+  Markdown: https://podcast.daveroetman.com/episodes/interview-representative-bobbi-andera.md
+- [Interview: Don Haggar](https://podcast.daveroetman.com/episodes/interview-don-haggar/) (2025-08-19). Guest: Don Haggar, candidate for Public Utilities Commissioner. Canonical post: https://daveroetman.substack.com/p/interview-don-haggar
+  Markdown: https://podcast.daveroetman.com/episodes/interview-don-haggar.md
+- [Interview: Representative Jack Kolbeck, District 13](https://podcast.daveroetman.com/episodes/interview-representative-jack-kolbeck/) (2025-08-16). Guest: Representative Jack Kolbeck, District 13. Canonical post: https://daveroetman.substack.com/p/interview-representative-jack-kolbeck
+  Markdown: https://podcast.daveroetman.com/episodes/interview-representative-jack-kolbeck.md
+- [Should Local Government Be Involved in Non-Profit Fundraising?](https://podcast.daveroetman.com/episodes/should-local-government-be-involved/) (2025-07-27). Guest: Dan Goeller, founder of Leninists on the Prairie. Canonical post: https://daveroetman.substack.com/p/should-local-government-be-involved
+  Markdown: https://podcast.daveroetman.com/episodes/should-local-government-be-involved.md
+- [Interview with Senator Kevin Jensen](https://podcast.daveroetman.com/episodes/interview-with-senator-kevin-jensen-748/) (2025-07-26). Guest: Senator Kevin Jensen, District 16. Canonical post: https://daveroetman.substack.com/p/interview-with-senator-kevin-jensen-748
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-senator-kevin-jensen-748.md
+- [Interview with State Senator Amber Hulse of District 30](https://podcast.daveroetman.com/episodes/interview-with-state-senator-amber/) (2025-06-07). Guest: Senator Amber Hulse, District 30. Canonical post: https://daveroetman.substack.com/p/interview-with-state-senator-amber
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-state-senator-amber.md
+- [Interview with Senator Kevin Jensen](https://podcast.daveroetman.com/episodes/interview-with-senator-kevin-jensen/) (2025-05-31). Guest: Senator Kevin Jensen, District 16. Canonical post: https://daveroetman.substack.com/p/interview-with-senator-kevin-jensen
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-senator-kevin-jensen.md
+- [Paying the Price for Being Forthright](https://podcast.daveroetman.com/episodes/paying-the-price-for-being-forthright/) (2025-05-25). Guest: Nate Welch, former director of marketing, Governor’s Office of Economic Development (GOED). Canonical post: https://daveroetman.substack.com/p/paying-the-price-for-being-forthright
+  Markdown: https://podcast.daveroetman.com/episodes/paying-the-price-for-being-forthright.md
+- [Interview: Senator Taffy Howard](https://podcast.daveroetman.com/episodes/interview-senator-taffy-howard/) (2025-05-24). Guest: Senator Taffy Howard, District 34. Canonical post: https://daveroetman.substack.com/p/interview-senator-taffy-howard
+  Markdown: https://podcast.daveroetman.com/episodes/interview-senator-taffy-howard.md
+- [Interview: Representative Logan Manhart](https://podcast.daveroetman.com/episodes/interview-representative-logan-manhart/) (2025-05-16). Guest: Representative Logan Manhart, District 1. Canonical post: https://daveroetman.substack.com/p/interview-representative-logan-manhart
+  Markdown: https://podcast.daveroetman.com/episodes/interview-representative-logan-manhart.md
+- [Interview with Toby Doeden](https://podcast.daveroetman.com/episodes/interview-with-toby-doeden/) (2025-05-13). Guest: Toby Doeden, Aberdeen businessman. Canonical post: https://daveroetman.substack.com/p/interview-with-toby-doeden
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-toby-doeden.md
+- [Interview with Representative Richard Vasgaard, District 16](https://podcast.daveroetman.com/episodes/interview-with-representative-richard/) (2025-05-11). Guest: Representative Richard Vasgaard, District 16. Canonical post: https://daveroetman.substack.com/p/interview-with-representative-richard
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-representative-richard.md
+- [Marty Jackley: Progress In Addressing Government Accountability and Human Trafficking](https://podcast.daveroetman.com/episodes/marty-jackley-progress-in-addressing-341/) (2025-04-26). Guest: Marty Jackley. Canonical post: https://daveroetman.substack.com/p/marty-jackley-progress-in-addressing-341
+  Markdown: https://podcast.daveroetman.com/episodes/marty-jackley-progress-in-addressing-341.md
+- [Issues in the News - Incarceration, Property Rights, Economic Development and the Budget](https://podcast.daveroetman.com/episodes/issues-in-the-news-incarceration-839/) (2025-03-14). Guest: Steve Haugaard. Canonical post: https://daveroetman.substack.com/p/issues-in-the-news-incarceration-839
+  Markdown: https://podcast.daveroetman.com/episodes/issues-in-the-news-incarceration-839.md
+- [Transparency is for Government](https://podcast.daveroetman.com/episodes/transparency-is-for-government-37b/) (2025-03-10). Guest: Austin Goss. Canonical post: https://daveroetman.substack.com/p/transparency-is-for-government-37b
+  Markdown: https://podcast.daveroetman.com/episodes/transparency-is-for-government-37b.md
+- [Its Kind of a Big Deal - Commissioner of School and Public Lands](https://podcast.daveroetman.com/episodes/its-kind-of-a-big-deal-commissioner-6fe/) (2025-03-08). Guest: Brock Greenfield, South Dakota Commissioner of School and Public Lands (former state senator and Senate President Pro Tempore; renominated by the SD GOP convention in June 2026 and on the Nov. 3, 2026 ballot). Canonical post: https://daveroetman.substack.com/p/its-kind-of-a-big-deal-commissioner-6fe
+  Markdown: https://podcast.daveroetman.com/episodes/its-kind-of-a-big-deal-commissioner-6fe.md
+- [Why South Dakota Needs an Unclaimed Property Trust Fund](https://podcast.daveroetman.com/episodes/why-south-dakota-needs-an-unclaimed-f44/) (2025-02-26). Guest: Josh Haeder, South Dakota State Treasurer; Jason Williams, Deputy State Treasurer. Canonical post: https://daveroetman.substack.com/p/why-south-dakota-needs-an-unclaimed-f44
+  Markdown: https://podcast.daveroetman.com/episodes/why-south-dakota-needs-an-unclaimed-f44.md
+- [Game Changing Election Integrity Bills in the Legislature Right Now](https://podcast.daveroetman.com/episodes/game-changing-election-integrity-232/) (2025-02-18). Guest: Representative Tony Kayser, South Dakota House, District 14. Canonical post: https://daveroetman.substack.com/p/game-changing-election-integrity-232
+  Markdown: https://podcast.daveroetman.com/episodes/game-changing-election-integrity-232.md
+- [Interview with Austin Goss, Political Reporter for the Dakota Scout](https://podcast.daveroetman.com/episodes/interview-with-austin-goss-political-a30/) (2025-02-09). Guest: Austin Goss, political reporter, The Dakota Scout. Canonical post: https://daveroetman.substack.com/p/interview-with-austin-goss-political-a30
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-austin-goss-political-a30.md
+- [Age Verification, Baby Boxes, and Culture Wars. Oh, my!](https://podcast.daveroetman.com/episodes/age-verification-baby-boxes-and-culture-664/) (2025-02-08). Guest: Representative Bethany Soye, South Dakota House, District 9. Canonical post: https://daveroetman.substack.com/p/age-verification-baby-boxes-and-culture-664
+  Markdown: https://podcast.daveroetman.com/episodes/age-verification-baby-boxes-and-culture-664.md
+- [Hot Topics: Property Taxes, Carbon Pipeline, and the Proposed Prison](https://podcast.daveroetman.com/episodes/hot-topics-property-taxes-carbon-04c/) (2025-02-07). Guest: Representative Aaron Aylward, South Dakota House, District 6; leader of the South Dakota Freedom Caucus. Canonical post: https://daveroetman.substack.com/p/hot-topics-property-taxes-carbon-04c
+  Markdown: https://podcast.daveroetman.com/episodes/hot-topics-property-taxes-carbon-04c.md
+- [South Dakota's Proposed Prison Boondoggle](https://podcast.daveroetman.com/episodes/south-dakotas-proposed-prison-boondoggle-1ef/) (2025-01-25). Guest: Doug Weber. Canonical post: https://daveroetman.substack.com/p/south-dakotas-proposed-prison-boondoggle-1ef
+  Markdown: https://podcast.daveroetman.com/episodes/south-dakotas-proposed-prison-boondoggle-1ef.md
+- [HJR 5003 - Raising the Threshold to Change the Constitution](https://podcast.daveroetman.com/episodes/hjr-5003-raising-the-threshold-to-dc4/) (2025-01-21). Guest: Representative John Hughes, South Dakota House, District 13. Canonical post: https://daveroetman.substack.com/p/hjr-5003-raising-the-threshold-to-dc4
+  Markdown: https://podcast.daveroetman.com/episodes/hjr-5003-raising-the-threshold-to-dc4.md
+- [Is Medical Cost Transparency Possible in South Dakota?](https://podcast.daveroetman.com/episodes/is-medical-cost-transparency-possible-507/) (2025-01-14). Guest: Aaron Levisay. Canonical post: https://daveroetman.substack.com/p/is-medical-cost-transparency-possible-507
+  Markdown: https://podcast.daveroetman.com/episodes/is-medical-cost-transparency-possible-507.md
+- [What is a Convention of States, anyway?](https://podcast.daveroetman.com/episodes/what-is-a-convention-of-states-anyway-b84/) (2024-12-22). Guest: Shirlee Meier and Aaron Levisay, Convention of States Action. Canonical post: https://daveroetman.substack.com/p/what-is-a-convention-of-states-anyway-b84
+  Markdown: https://podcast.daveroetman.com/episodes/what-is-a-convention-of-states-anyway-b84.md
+- [Interview: Heidi Engelhart](https://podcast.daveroetman.com/episodes/interview-heidi-engelhart-935/) (2024-12-17). Guest: Heidi Engelhart. Canonical post: https://daveroetman.substack.com/p/interview-heidi-engelhart-935
+  Markdown: https://podcast.daveroetman.com/episodes/interview-heidi-engelhart-935.md
+- [What Makes a Good Legislator?](https://podcast.daveroetman.com/episodes/what-makes-a-good-legislator-622/) (2024-11-21). Guest: Brent Hoffman, former South Dakota State Senator, District 9. Canonical post: https://daveroetman.substack.com/p/what-makes-a-good-legislator-622
+  Markdown: https://podcast.daveroetman.com/episodes/what-makes-a-good-legislator-622.md
+- [Minnehaha Auditor Leah Anderson Interview](https://podcast.daveroetman.com/episodes/minnehaha-auditor-leah-anderson-interview-76b/) (2024-11-14). Guest: Leah Anderson, Minnehaha County Auditor. Canonical post: https://daveroetman.substack.com/p/minnehaha-auditor-leah-anderson-interview-76b
+  Markdown: https://podcast.daveroetman.com/episodes/minnehaha-auditor-leah-anderson-interview-76b.md
+- [Interview with Brandei Schaefbauer](https://podcast.daveroetman.com/episodes/interview-with-brandei-schaefbauer-64a/) (2024-11-10). Guest: Brandei Schaefbauer. Canonical post: https://daveroetman.substack.com/p/interview-with-brandei-schaefbauer-64a
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-brandei-schaefbauer-64a.md
+- [Interview with Amanda Radke](https://podcast.daveroetman.com/episodes/interview-with-amanda-radke-031/) (2024-10-25). Guest: Amanda Radke, rancher, agricultural writer and property-rights advocate. Canonical post: https://daveroetman.substack.com/p/interview-with-amanda-radke-031
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-amanda-radke-031.md
+- [The Practical Effects of IM 29](https://podcast.daveroetman.com/episodes/the-practical-effects-of-im-29-28a/) (2024-10-14). Guest: Wade Talkington, former recreational marijuana business owner, Sioux Falls. Canonical post: https://daveroetman.substack.com/p/the-practical-effects-of-im-29-28a
+  Markdown: https://podcast.daveroetman.com/episodes/the-practical-effects-of-im-29-28a.md
+- [Interview with No in November Chair Chris Larson](https://podcast.daveroetman.com/episodes/interview-with-no-in-november-chair-ba8/) (2024-10-11). Guest: Chris Larson, chair of No in November (votenosd.com) and owner of Comfort King. Canonical post: https://daveroetman.substack.com/p/interview-with-no-in-november-chair-ba8
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-no-in-november-chair-ba8.md
+- [Interview with Representative Brian Mulder, District 11](https://podcast.daveroetman.com/episodes/interview-with-representative-brian-a6b/) (2024-10-09). Guest: Representative Brian Mulder, South Dakota House, District 11. Canonical post: https://daveroetman.substack.com/p/interview-with-representative-brian-a6b
+  Markdown: https://podcast.daveroetman.com/episodes/interview-with-representative-brian-a6b.md
+- [Neighbors Opposed to Prison Expansion](https://podcast.daveroetman.com/episodes/neighbors-opposed-to-prison-expansion-117/) (2024-08-29). Guest: Tom, Sam, Sarah and Madeline, Lincoln County neighbors opposed to the proposed state prison site (last names not given). Canonical post: https://daveroetman.substack.com/p/neighbors-opposed-to-prison-expansion-117
+  Markdown: https://podcast.daveroetman.com/episodes/neighbors-opposed-to-prison-expansion-117.md
+- [Interview: Representative Scott Odenbach](https://podcast.daveroetman.com/episodes/interview-representative-scott-odenbach-a2d/) (2024-01-16). Guest: Representative Scott Odenbach. Canonical post: https://daveroetman.substack.com/p/interview-representative-scott-odenbach-a2d
+  Markdown: https://podcast.daveroetman.com/episodes/interview-representative-scott-odenbach-a2d.md
+- [Leah Anderson, Minnehaha County Auditor](https://podcast.daveroetman.com/episodes/leah-anderson-minnehaha-county-auditor-47a/) (2024-01-04). Guest: Leah Anderson, Minnehaha County Auditor. Canonical post: https://daveroetman.substack.com/p/leah-anderson-minnehaha-county-auditor-47a
+  Markdown: https://podcast.daveroetman.com/episodes/leah-anderson-minnehaha-county-auditor-47a.md
+- [Is Nuclear Energy the Answer?](https://podcast.daveroetman.com/episodes/is-nuclear-energy-the-answer-f88/) (2023-11-23). Guest: Gary Schuster, physicist and former director of research and development at Materion. Canonical post: https://daveroetman.substack.com/p/is-nuclear-energy-the-answer-f88
+  Markdown: https://podcast.daveroetman.com/episodes/is-nuclear-energy-the-answer-f88.md
+- [What is Woke? Who are they in South Dakota?](https://podcast.daveroetman.com/episodes/what-is-woke-who-are-they-in-south-b7a/) (2023-11-09). Guest: Dan Goeller. Canonical post: https://daveroetman.substack.com/p/what-is-woke-who-are-they-in-south-b7a
+  Markdown: https://podcast.daveroetman.com/episodes/what-is-woke-who-are-they-in-south-b7a.md
+- [The Land and Its People...](https://podcast.daveroetman.com/episodes/the-land-and-its-people-3b6/) (2023-11-07). Guest: Sarah Ulmer, Harrisburg-area resident and member of NOPE (Neighbors Opposing Prison Expansion), speaking for herself. Canonical post: https://daveroetman.substack.com/p/the-land-and-its-people-3b6
+  Markdown: https://podcast.daveroetman.com/episodes/the-land-and-its-people-3b6.md
+- [The March Through Institutions](https://podcast.daveroetman.com/episodes/the-march-through-institutions-2df/) (2023-10-05). Guest: Dan Goeller, Executive Director of Harmony, South Dakota. Canonical post: https://daveroetman.substack.com/p/the-march-through-institutions-2df
+  Markdown: https://podcast.daveroetman.com/episodes/the-march-through-institutions-2df.md
+- [Eminent Domain for Private Gain](https://podcast.daveroetman.com/episodes/eminent-domain-for-private-gain-f9d/) (2023-09-12). Guest: Representative Marty Overweg, South Dakota House, District 21. Canonical post: https://daveroetman.substack.com/p/eminent-domain-for-private-gain-f9d
+  Markdown: https://podcast.daveroetman.com/episodes/eminent-domain-for-private-gain-f9d.md
+- [Political Reporting in South Dakota](https://podcast.daveroetman.com/episodes/political-reporting-in-south-dakota-326/) (2023-08-24). Guest: Austin Goss, political reporter, The Dakota Scout. Canonical post: https://daveroetman.substack.com/p/political-reporting-in-south-dakota-326
+  Markdown: https://podcast.daveroetman.com/episodes/political-reporting-in-south-dakota-326.md
+- [What Do We Do With the Budget Surplus, and How Can We Protect Ag Land?](https://podcast.daveroetman.com/episodes/what-do-we-do-with-the-budget-surplus-f4b/) (2023-08-03). Guest: Representative Marty Overweg, South Dakota House, District 21. Canonical post: https://daveroetman.substack.com/p/what-do-we-do-with-the-budget-surplus-f4b
+  Markdown: https://podcast.daveroetman.com/episodes/what-do-we-do-with-the-budget-surplus-f4b.md
+- [John Mills Discusses Eminent Domain and Shared the Dangers of the CO2 Pipeline](https://podcast.daveroetman.com/episodes/john-mills-discusses-eminent-domain-287/) (2023-07-19). Guest: Representative John Mills, South Dakota House, District 8. Canonical post: https://daveroetman.substack.com/p/john-mills-discusses-eminent-domain-287
+  Markdown: https://podcast.daveroetman.com/episodes/john-mills-discusses-eminent-domain-287.md
+- [Was it a Pandemic of the Unvaccinated?](https://podcast.daveroetman.com/episodes/was-it-a-pandemic-of-the-unvaccinated-fb7/) (2023-07-03). Guest: Representative Bobbi Andera, South Dakota House, District 10. Canonical post: https://daveroetman.substack.com/p/was-it-a-pandemic-of-the-unvaccinated-fb7
+  Markdown: https://podcast.daveroetman.com/episodes/was-it-a-pandemic-of-the-unvaccinated-fb7.md
+- [Should Term Limits be changed?](https://podcast.daveroetman.com/episodes/should-term-limits-be-changed-b6d/) (2023-06-28). Guest: Senator Brent Hoffman, South Dakota Senate, District 9. Canonical post: https://daveroetman.substack.com/p/should-term-limits-be-changed-b6d
+  Markdown: https://podcast.daveroetman.com/episodes/should-term-limits-be-changed-b6d.md
+- [Property Rights and Eminent Domain](https://podcast.daveroetman.com/episodes/property-rights-and-eminent-domain-701/) (2023-05-24). Guest: Representative Karla Lems and Representative John Sjaarda, South Dakota House. Canonical post: https://daveroetman.substack.com/p/property-rights-and-eminent-domain-701
+  Markdown: https://podcast.daveroetman.com/episodes/property-rights-and-eminent-domain-701.md
+- [Defending Religious Freedom](https://podcast.daveroetman.com/episodes/defending-religious-freedom-c51/) (2023-05-12). Guest: Nathan Shackleford, First Liberty Institute. Canonical post: https://daveroetman.substack.com/p/defending-religious-freedom-c51
+  Markdown: https://podcast.daveroetman.com/episodes/defending-religious-freedom-c51.md
+- [Fred Deutsch on Protecting Children](https://podcast.daveroetman.com/episodes/fred-deutsch-on-protecting-children-b3e/) (2023-05-02). Guest: Representative Fred Deutsch, South Dakota House, District 4. Canonical post: https://daveroetman.substack.com/p/fred-deutsch-on-protecting-children-b3e
+  Markdown: https://podcast.daveroetman.com/episodes/fred-deutsch-on-protecting-children-b3e.md
+- [South Dakota's New Social Studies Standards](https://podcast.daveroetman.com/episodes/south-dakotas-new-social-studies-b8c/) (2023-04-25). Guest: Aaron Levisay, member of South Dakota's social studies standards revision committee. Canonical post: https://daveroetman.substack.com/p/south-dakotas-new-social-studies-b8c
+  Markdown: https://podcast.daveroetman.com/episodes/south-dakotas-new-social-studies-b8c.md
+- [Moms for Liberty Chair Amy Bruner](https://podcast.daveroetman.com/episodes/moms-for-liberty-chair-amy-bruner-08d/) (2023-04-18). Guest: Amy Bruner, chair, Moms for Liberty (Minnehaha County chapter). Canonical post: https://daveroetman.substack.com/p/moms-for-liberty-chair-amy-bruner-08d
+  Markdown: https://podcast.daveroetman.com/episodes/moms-for-liberty-chair-amy-bruner-08d.md
+- [Help Not Harm - Bethany Soye discusses the passage of HB 1080](https://podcast.daveroetman.com/episodes/help-not-harm-bethany-soye-discusses-3b8/) (2023-04-04). Guest: Representative Bethany Soye, South Dakota House, District 9. Canonical post: https://daveroetman.substack.com/p/help-not-harm-bethany-soye-discusses-3b8
+  Markdown: https://podcast.daveroetman.com/episodes/help-not-harm-bethany-soye-discusses-3b8.md
+- [Rep. Jon Hansen on Education and Life](https://podcast.daveroetman.com/episodes/rep-jon-hansen-on-education-and-life-96f/) (2023-03-29). Guest: Representative Jon Hansen, South Dakota House, District 25. Canonical post: https://daveroetman.substack.com/p/rep-jon-hansen-on-education-and-life-96f
+  Markdown: https://podcast.daveroetman.com/episodes/rep-jon-hansen-on-education-and-life-96f.md
+- [Rep. Aaron Aylward discusses the Freedom Caucus, ESG, Red Flag laws and the Guard](https://podcast.daveroetman.com/episodes/rep-aaron-aylward-discusses-the-freedom-84c/) (2023-03-24). Guest: Representative Aaron Aylward, South Dakota House, District 6. Canonical post: https://daveroetman.substack.com/p/rep-aaron-aylward-discusses-the-freedom-84c
+  Markdown: https://podcast.daveroetman.com/episodes/rep-aaron-aylward-discusses-the-freedom-84c.md
+- [Rep. Chris Karr: Sales Tax Reduction and Game Changing Legislation](https://podcast.daveroetman.com/episodes/rep-chris-karr-sales-tax-reduction-991/) (2023-03-21). Guest: Representative Chris Karr, South Dakota House, District 11. Canonical post: https://daveroetman.substack.com/p/rep-chris-karr-sales-tax-reduction-991
+  Markdown: https://podcast.daveroetman.com/episodes/rep-chris-karr-sales-tax-reduction-991.md
+- [Interview: Representative Karla Lems, Part 2](https://podcast.daveroetman.com/episodes/interview-representative-karla-lems-30b/) (2023-03-05). Guest: Representative Karla Lems, South Dakota House, District 16. Canonical post: https://daveroetman.substack.com/p/interview-representative-karla-lems-30b
+  Markdown: https://podcast.daveroetman.com/episodes/interview-representative-karla-lems-30b.md
+- [Interview: Representative Karla Lems, D16](https://podcast.daveroetman.com/episodes/interview-representative-karla-lems-075/) (2023-03-04). Guest: Representative Karla Lems, South Dakota House, District 16. Canonical post: https://daveroetman.substack.com/p/interview-representative-karla-lems-075
+  Markdown: https://podcast.daveroetman.com/episodes/interview-representative-karla-lems-075.md
