@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-11-13T12:45:27.584098-06:00",
+  "base_url": "https://podcast.daveroetman.com",
+  "feed_url": "https://api.substack.com/feed/podcast/340173.rss",
+  "show_title": "Making Waves with Dave Roetman: South Dakota Politics",
+  "episode_count": 79,
+  "html_pages": 80,
+  "markdown_mirrors": 79,
+  "transcript_coverage": 79,
+  "transcript_sources": {
+    "feed VTT": 3,
+    "local corrected VTT": 8,
+    "local markdown": 68
+  },
+  "episodes_with_guest": 79,
+  "episodes_missing_guest": [],
+  "episodes_missing_transcript": [],
+  "dist": "/workspace/sites/making-waves-episodes/dist",
+  "zip": "/workspace/sites/making-waves-episodes/making-waves-episodes-dist.zip",
+  "latest": "From the Battlefield to the Ballot Box: Kerry Loudenslager for District 12",
+  "latest_slug": "from-the-battlefield-to-the-ballot",
+  "date_range": "2023-03-04 \u2013 2026-10-16"
+}
